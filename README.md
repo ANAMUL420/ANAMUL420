@@ -14,7 +14,7 @@ NEW BD-420 CLONING
 ✳️ pip2 install mechanize
 ✳️ pkg install git
 ✳️ git clone https://github.com/ANAMUL420/ANAMUL420/
-✳️ cd PK-CRACK
+✳️ cd BD-420.bd
 ✳️ python2 BD-420.bd
 
       ✳️USERNAME : ANAMUL420
